@@ -11,10 +11,11 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero-image': "url(/assets/header/hero-cover.jpg)",
-        'content-bg-1': "url(/assets/section-4/post-1.jpg",
-        'content-bg-2': "url(/assets/section-4/post-2.jpg",
-        'content-bg-3': "url(/assets/section-4/post-3.jpg",
-        'content-bg-4': "url(/assets/section-4/post-4.jpg"
+        'contact-img': "url(/assets/contact/background.jpg)",
+        'content-img-1': "url(/assets/section-4/post-1.jpg",
+        'content-img-2': "url(/assets/section-4/post-2.jpg",
+        'content-img-3': "url(/assets/section-4/post-3.jpg",
+        'content-img-4': "url(/assets/section-4/post4.jpg",
       },
     },
   },
